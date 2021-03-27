@@ -5,3 +5,4 @@ print("hello world")
 
 #  print(a,b)
 
+print(f"value of a is: {3}")
